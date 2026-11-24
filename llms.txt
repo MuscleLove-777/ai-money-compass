@@ -1,0 +1,12 @@
+# AIマネー羅針盤 | お金×AI×自動化で資産形成 2026
+
+> AI時代に賢くお金を増やすための総合ナビ。ロボアド・証券口座・仮想通貨・家計簿アプリ・保険を徹底比較。AI×投資・節約・資産形成の最新トレンドを毎日更新。
+
+## Main Pages
+
+- [ai money compass](https://musclelove-777.github.io/ai-money-compass/): main page of AIマネー羅針盤 | お金×AI×自動化で資産形成 2026.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/ai-money-compass
